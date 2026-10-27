@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Shield</string>
+    <string name="acc_desc">Focus Shield checks which app is open so it can lock the apps you picked. It does not read or store anything on your screen.</string>
+</resources>
